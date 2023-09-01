@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IssacMathai
 - 👀 I’m interested in coding in Python & Java.
-- 🌱 I’m currently learning how to code in Java.
+- 🌱 I’m currently learning how to code in C & SQL.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
