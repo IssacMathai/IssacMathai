@@ -1,6 +1,6 @@
 Hi, I'm Issac Mathai.
 
-I’m most comfortable with coding in Python as I've been using it since 2018. 
+I’ve been programming in Python since 2018, so I feel the most comfortable with it. 
 
 At university, I'm programming in Java and learning C & SQL.
 
