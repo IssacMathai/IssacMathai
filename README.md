@@ -2,7 +2,7 @@ Hi, I'm Issac Mathai.
 
 I’ve been programming in Python since 2018, so I feel the most comfortable with it. 
 
-At university, I'm mainly programming in Java but also learning React, Typescript and Node.js.
+At university, I'm mainly programming in Java while also learning React, Typescript and Node.js.
 
 In this GitHub you will find some personal projects of mine.
 <!---
